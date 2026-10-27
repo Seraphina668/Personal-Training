@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "exercises": [
+    {
+      "name": "BOSU Ball",
+      "techniqueNotes": [
+        "Let the BOSU Ball curl your back on the way down",
+        "Curl up, segment by segment (head, then Upperback, then lowerback)",
+        "Breathe at the top of every rep if needed",
+        "Hook your feet with a heavy dumbbell"
+      ],
+      "muscles": "Core",
+      "settings": "BOSU Ball"
+    },
+    {
+      "name": "Cybex Chest Press",
+      "techniqueNotes": [
+        "Wrists stacked with elbows",
+        "5 points of contact (head, upper back, butt, and 2 feet",
+        "Exhale on push",
+        "Inhale on down portion",
+        "Control the weight as you lower it"
+      ],
+      "muscles": "Shoulders, Chest, Triceps",
+      "settings": "Seat 1, Handles down & low"
+    },
+    {
+      "name": "EGYM Back Row (Horizontal handle)",
+      "techniqueNotes": [
+        "Drive the elbow wide and back, getting a squeeze with the shoulder blades",
+        "Set your hands up so that when you row and squeeze, your elbow/arm create about a 80-90 degree angle",
+        "Exhale as you pull",
+        "Control the weight on the way back"
+      ],
+      "muscles": "Upper and midback",
+      "settings": "EGYM Settings",
+      "muscleVariants": [
+        "Upper and midback",
+        "Shoulders, Chest, Back, Biceps, Triceps, Core"
+      ]
+    },
+    {
+      "name": "EGYM Back Row (Vertical handle)",
+      "techniqueNotes": [
+        "Drive the elbows down and low towards your hips",
+        "Don’t pass your torso as you pull",
+        "Exhale on the pull, inhale & control on the way back"
+      ],
+      "muscles": "Back, Lats",
+      "settings": "EGYM Settings"
+    },
+    {
+      "name": "EGYM Leg Curl",
+      "techniqueNotes": [
+        "Point toes to your nose",
+        "Line up legs about shoulder width apart",
+        "Press yourself into the chair",
+        "Exhale as you curl back",
+        "Control the weight as it comes up"
+      ],
+      "muscles": "Hamstrings",
+      "settings": "EGYM Settings"
+    },
+    {
+      "name": "EGYM Leg Extension",
+      "techniqueNotes": [
+        "Pull yourself into the chair with handles",
+        "Toes to nose (optional)",
+        "Exhale as you kick the legs up",
+        "Control the weight through full range of motion as you lower it"
+      ],
+      "muscles": "Quads",
+      "settings": "2 Balance Pads",
+      "settingsVariants": [
+        "2 Balance Pads",
+        "EGYM Settings"
+      ]
+    },
+    {
+      "name": "EGYM Squat",
+      "techniqueNotes": [
+        "Feet shoulder width apart",
+        "Toes facing forward or just slightly to the side",
+        "Breathe in at the top, and brace core",
+        "Let your knees bend, and don’t push butt back too far",
+        "At the bottom, push up and exhale",
+        "Pick a spot to look at and keep neck neutral"
+      ],
+      "muscles": "Glutes, Quads",
+      "settings": ""
+    },
+    {
+      "name": "Goblet Squats",
+      "techniqueNotes": [
+        "Hold dumbbell like a flower at chest level",
+        "Get into a good squat stance",
+        "Control the weight down and then explode upwards with an exhale"
+      ],
+      "muscles": "Glutes, Quads",
+      "settings": ""
+    },
+    {
+      "name": "Pallof Press w/ Rotation",
+      "techniqueNotes": [
+        "Interlock hands and just core to rotate",
+        "Cable is held at chest center for 3s before rotating back"
+      ],
+      "muscles": "Core",
+      "settings": "Cable set at chest height"
+    },
+    {
+      "name": "Single Leg Heel Raise",
+      "techniqueNotes": [
+        "Push yourself tall through the balls of your feet (exhale)",
+        "Control your body down as your heel drops"
+      ],
+      "muscles": "Calves",
+      "settings": "Elevated surface & something to help balance"
+    },
+    {
+      "name": "Underhand Pull-Ups",
+      "techniqueNotes": [
+        "Underhand grip",
+        "Drive elbows down into your pockets",
+        "Exhale as you pull up, inhale on the way down"
+      ],
+      "muscles": "Biceps, Lattisimus Dorsi",
+      "settings": "Leg Pad Supported"
+    }
+  ]
+}
